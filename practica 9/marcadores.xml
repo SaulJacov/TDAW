@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marcadores>
+<pagina>
+<nombre>Abrirllave</nombre>
+<descripcion>Escuela Superior de Computo.</descripcion> <url>https://www.escom.ipn.mx/</url>
+</pagina>
+<pagina>
+<nombre>Wikipedia</nombre> <descripcion>La enciclopedia libre.</descripcion>
+<url>http://www.wikipedia.org/</url>
+</pagina>
+<pagina>
+<nombre>W3C</nombre>
+<descripcion>World Wide Web Consortium.</descripcion> <url>http://www.w3.org/</url>
+</pagina>
+</marcadores>

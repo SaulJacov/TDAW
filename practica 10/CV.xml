@@ -1,0 +1,34 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<CV>
+    <datosP>
+        <nombre>Saul Jacob</nombre>
+        <apellidos>Martinez Jimenez</apellidos>
+        <direccion>Calle Libra #8</direccion>
+        <tel>56 2664 4722</tel>
+    </datosP>
+    <Educacion>
+        <MedioSuperior>Centro de Estudios Cientificos y Tecnologicos No.3 "Estanislao Ramirez Ruiz"</MedioSuperior>
+        <Superiores>Escuela Superior de Computo ESCOM</Superiores>
+    </Educacion>
+    <HabilidadesP>
+        <hab1>
+            <habname>Lenguaje HTML</habname>
+            <porcentaje1>80%</porcentaje1>
+        </hab1>
+        <hab2>
+            <habname2>Lenguaje PHP</habname2>
+            <porcentaje2>70%</porcentaje2>
+        </hab2>
+    </HabilidadesP>
+    <PortafolioT>
+        <proyecto1>horario de clases en html</proyecto1>
+        <proyecto2>formulario de contacto</proyecto2>
+        <proyecto3>Curriculum realizado en html</proyecto3>
+        <Contacto>
+            <facebook>Saul Martinez</facebook>
+            <instagram>ssuuul.11</instagram>
+            <spotify>ssuuul.11</spotify>
+            <WhatsApp>56 2664 4722</WhatsApp>
+        </Contacto>
+    </PortafolioT>
+</CV>
