@@ -1,0 +1,45 @@
+<!-- Martinez Jimenez Saul Jacob 4CV1 -->
+body {
+    background-color: #f1fcc4;
+}
+img {
+    border-radius: 10%;
+}
+.sidebar {
+    padding: 2%;
+    background-color: #b0f2c2;
+    float: left;
+    width: 30%;
+    height: 200vh;
+}
+.contenido{
+    text-align: justify;
+    padding-left: 35%;
+    padding-right: ;
+}
+.encabezado {
+    background-color: #00a86b;
+    text-align: left;
+    color: white;
+    padding: 2%;
+    font-size: 300%;
+}
+iframe {
+    width: 70%;
+    height: 300px;
+}
+.contacto {
+    background-color: #00a86b;
+    padding: 2%;
+}
+.habilidades {
+    font-style: italic;
+    background-color: #00a86ad0;
+    padding: 2%;
+}
+.portafolio{
+    background-color: #00a86a36;
+    padding: 2%;
+    margin-top: 2%;
+}
+<!-- Realizado por MJSJ -->
